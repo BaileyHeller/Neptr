@@ -1,5 +1,8 @@
 # Neptr
- A lil animatronic robot!
+ A lil animatronic robot! ^-.-^
+ 
+ # Intent
+ A demonstration of biomimicry and human obsession with nature in the Anthropocene era.
  
  # Materials
  -Arduino Uno microcontroller
