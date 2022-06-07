@@ -1,10 +1,10 @@
 # Neptr
  A lil animatronic robot! ^-.-^
  
- # Intent
+ ## Intent
  A demonstration of biomimicry and human obsession with nature in the Anthropocene era.
  
- # Materials
+ ## Materials
  -Arduino Uno microcontroller
  <p>-8 servo motors
  <p>-3d printed pla parts
