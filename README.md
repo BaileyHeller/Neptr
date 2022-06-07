@@ -2,8 +2,8 @@
  A lil animatronic robot!
  
  # Materials
- \n -Arduino Uno microcontroller
- -8 servo motors
+ -Arduino Uno microcontroller
+ <p>-8 servo motors <p/>
  -3d printed pla parts
  -4-40 machine screws & nuts
  -fabric fur
